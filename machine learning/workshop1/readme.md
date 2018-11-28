@@ -1,4 +1,4 @@
-Bu hafta tek değişkenli lineear regression modelini çalışılmıştır.
+Bu hafta tek değişkenli linear regression modelini çalışılmıştır.
 
 Problem: Bir sadece evin alanını bilerek evin ücretini bulabilir miyiz?
 
