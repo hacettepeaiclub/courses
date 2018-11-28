@@ -1,4 +1,11 @@
-This workshop is done by following Andrew NG Coursera Machine Learning Course. Slides in the course are followed. 
-You can access the online Community course in community Youtube channel. 
+Bu hafta tek değişkenli lineear regression modelini çalışılmıştır.
 
+Problem: Bir sadece evin alanını bilerek evin ücretini bulabilir miyiz?
+
+Veri kümesi: evin alanı | evin ücreti
+
+Metod: Linear regression
+
+Çalışma Youtube üzerinden canlı yayın yapılmıştır. Youtube linki:
 https://youtu.be/XNBwxETLxP0
+
