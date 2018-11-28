@@ -3,4 +3,4 @@ Atölye çalışmaları Andrew NG <a href="https://www.coursera.org/learn/machin
 Youtube kanalımızdaki online dersleri ve uygulamaları izlemek için <a href="https://www.youtube.com/channel/UCydhStZhzI_k9Y00Iieca5A">Youtube kanalımızı</a> takip edebilirsiniz. 
 
 <h6> Ders Takvimimiz (2018 - 2019)</h6>
-<img src="ML ders takvimi .png">
+<img src="ML ders takvimi.png">
