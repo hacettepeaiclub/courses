@@ -10,3 +10,5 @@ Veri kümesi: öğrencinin 1. sınavı | öğrencinin 2. sınavı | öğrencinin
 <h6> Method </h6>
 logistic  regression
 
+<h6> Not </h6>
+Çalışma fiziksel atölyenin yanında Youtube üzerinden canlı yayın olarakta yapılmıştır. Youtube linki: https://www.youtube.com/watch?v=ObKdwgxzDGE
