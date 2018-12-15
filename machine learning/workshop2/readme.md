@@ -10,3 +10,5 @@ Veri kümesi: evin alanı | evin oda sayısı | evin ücreti
 <h6> Method </h6>
 Multi-variable linear  regression
 
+<h6> Not </h6>
+Çalışma fiziksel atölyenin yanında Youtube üzerinden canlı yayın olarakta yapılmıştır. Youtube linki: https://www.youtube.com/watch?v=mfysS9IBp4g
