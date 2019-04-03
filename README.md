@@ -10,8 +10,6 @@ Dersler paralel olarak çevrimiçi olarak da verilmektedir. Çevrimiçi derslere
 
 <img src="https://raw.githubusercontent.com/hacettepeai/courses/master/machine%20learning/ML%20ders%20takvimi.png">
 
-<h3>Derin Öğrenme Dersleri</h3>
-Tarihler ilerleyen günlerde açıklanacaktır..
+<h3>Pytorch Eğitimi & Derin Öğrenme Dersleri</h3>
+<img src="https://raw.githubusercontent.com/hacettepeai/courses/master/deep%20learning/DL%20ders%20takvimi%20.png">
 
-<h3>Pytorch Eğitimi</h3>
-Tarihler ilerleyen günlerde açıklanacaktır..
