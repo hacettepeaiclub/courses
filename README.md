@@ -7,9 +7,16 @@ Dersler paralel olarak çevrimiçi olarak da verilmektedir. Çevrimiçi derslere
 
 <h1>Aktif Dersler </h1>
 <h3>Makine Öğrenmesi Dersleri</h3>
+<p>21 Kasım perşembe 17.00 - Workshop1</p>
+<p>28 Kasım perşembe 17.00 - Workshop2</p>
+<p>05 Aralık perşembe 17.00 - Workshop3</p>
+<p>12 Aralık perşembe 17.00 - Workshop4</p>
+<p>19 Aralık perşembe 17.00 - Workshop5</p>
 
-<img src="https://raw.githubusercontent.com/hacettepeai/courses/master/machine%20learning/ML%20ders%20takvimi.png">
 
-<h3>Pytorch Eğitimi & Derin Öğrenme Dersleri</h3>
-<img src="https://raw.githubusercontent.com/hacettepeai/courses/master/deep%20learning/DL%20ders%20takvimi%20.png">
+<h3>Pytorch Eğitimi</h3>
+<p>24 Aralık salı 17.00 - Workshop</p>
 
+<h3>Derin Öğrenme Dersleri</h3>
+<p>26 Aralık perşembe 17.00 - Workshop1</p>
+<p>02 Ocak perşembe 17.00 - Workshop2</p>
