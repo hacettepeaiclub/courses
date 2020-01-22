@@ -21,7 +21,11 @@ Dersler paralel olarak çevrimiçi olarak da verilmektedir. Çevrimiçi derslere
 <p>26 Aralık perşembe 17.00 - Workshop1</p>
 <p>02 Ocak perşembe 17.00 - Workshop2</p>
 
+<br>
+<br>
+<br>
 
+# Sosyal Medya
 <p>Gelecek ders ve etkinliklerden haberdar olmak için bizi takip edin ! </p>
 <br>
 <a href="https://twitter.com/hacettepeaiclub">twitter</a>
