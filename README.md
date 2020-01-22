@@ -28,5 +28,4 @@ Dersler paralel olarak çevrimiçi olarak da verilmektedir. Çevrimiçi derslere
 # Sosyal Medya
 <p>Gelecek ders ve etkinliklerden haberdar olmak için bizi takip edin ! </p>
 <br>
-<a href="https://twitter.com/hacettepeaiclub">twitter</a>
-<a href="https://www.instagram.com/hacettepeaiclub/">instagram</a>
+<a href="https://twitter.com/hacettepeaiclub">twitter</a> . <a href="https://www.instagram.com/hacettepeaiclub/">instagram</a>
